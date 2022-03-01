@@ -47,8 +47,54 @@ that feature, create an account at [rapidapi.com](https://rapidapi.com/hub) and 
 the `news.svelte` file.
 
 
+## Build
+
+To build this project, use:
+- `npm install`
+
+
+To open it up locally, use:
+- `npm run dev -- --open`
+
+
+To create a build folder, use:
+- `npm run build`
+
+
 ## Other helpful projects I used here
 
 - [Mana Font](https://mana.andrewgioia.com/index.html)
 - [rapidapi.com](https://rapidapi.com/hub)
 - [sveltekit-i18n](https://github.com/sveltekit-i18n/lib)
+
+
+## Screenshots
+
+Home screen
+
+![Home](/assets/images/home.png "Home screen")
+
+
+Admissions screen
+
+![Admissions](/assets/images/admissions.png "Admissions")
+
+
+News screen
+
+![News](/assets/images/news.png "News")
+
+
+Events screen
+
+![Events](/assets/images/events.png "Events")
+
+
+About screen
+
+![About](/assets/images/about.png "About")
+
+
+Colleges screen
+
+![Colleges](/assets/images/colleges.png "Colleges")
