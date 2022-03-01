@@ -1,0 +1,80 @@
+{
+  "admitted": {
+    "db59bb8f93097f31d3b118a735283ba4": {
+      "name": "Rui Rio",
+      "start_pitch": "1",
+      "magic_display": "1",
+      "sentience": "1",
+      "examinator_perception_of_magic": "1"
+    },
+    "d90deddc42c5388356127e126448031b": {
+      "name": "António Costa",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    },
+    "a1be5cc7e0486e22fe546f2efc14193b": {
+      "name": "João Cotrim de Figueiredo",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    },
+    "1494300375bad72cd67db8bd41aa5a20": {
+      "name": "Catarina Martins",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    },
+    "fdd60cb932e3be9b1762ffd7e20c65c0": {
+      "name": "Jerónimo de Sousa",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    },
+    "6533735a97ac1281f9b4abc286d1ba81": {
+      "name": "Rui Tavares",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    },
+    "f095a23b8a2124a38a4dc0c732a2d782": {
+      "name": "",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    },
+    "e49024fe0499ba16c7533925760ca896": {
+      "name": "",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    },
+    "f91be052c7acb195ac8fc90e8f525a60": {
+      "name": "",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    },
+    "d1cffdb20359d400deab5c5586db6434": {
+      "name": "",
+      "start_pitch": "",
+      "magic_display": "",
+      "sentience": "",
+      "examinator_perception_of_magic": ""
+    }
+  },
+  "evaluation" : {
+    "start_pitch_max": "5",
+    "magic_display_max": "5",
+    "sentience_max": "5",
+    "examinator_perception_of_magic_max": "5"
+  }
+}

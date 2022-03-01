@@ -1,0 +1,91 @@
+{
+  "header": {
+    "home": "Home",
+    "admissions": "Admissions",
+    "news": "News",
+    "events": "Events",
+    "about": "About"
+  },
+  "footer": {
+    "text": "Please visit Strixhaven college's official wiki",
+    "placeholder": "here"
+  },
+  "home": {
+    "title": "Strixhaven homepage",
+    "intro": "school of magic"
+  },
+  "news": {
+    "title": "Strixhaven news",
+    "story": "Read story",
+    "nothing_here": "Nothing available to show here..."
+  },
+  "events": {
+    "title": "Strixhaven events",
+    "e1": "Application presentation and delivery, in person",
+    "e2": "First day of school",
+    "e3": "Fall festival"
+  },
+  "admissions": {
+    "title": "Strixhaven admissions",
+    "intro_text": "You may check the result of your application into Strixhaven's course of Magic on this page!",
+    "heading1": "Admission status",
+    "last_name": "Last name",
+    "first_name": "First name",
+    "check_application": "Check application",
+    "error": "We haven't received yet any application from {{student}}.\nIf you think this is wrong, please contact Strixhaven's administrative services.\nThank you!",
+    "students": {
+      "title": "Strixhaven admission status",
+      "status_ok": "Congratulations!",
+      "status_nok": "We're sorry!",
+      "description": "We proudly announce that <b>{{student}}</b> was accepted at the most prestigious School of Magic of Arcavios!\nWelcome to Strixhaven, and may you journey on magic arts learning be, at least, fascinating!",
+      "details": "Admission details",
+      "application_submission": "Application submission",
+      "submitted": "Submitted",
+      "preliminary_interview": "Preliminary interview",
+      "scheduled": "Scheduled",
+      "done": "Done",
+      "acceptance": "Application acceptance",
+      "unknown": "Unknown",
+      "accepted": "Accepted",
+      "interview": {
+        "start_pitch": "Initial pitch",
+        "magic_display": "Magic display",
+        "sentience": "Sentience and perception",
+        "examinator_perception_of_magic": "Examinator's perception of magic of the candidate"
+      }
+    }
+  },
+  "about": {
+    "title": "Strixhaven about",
+    "university": "The university",
+    "p1": "Strixhaven is a school of magic located on the Orrithia continent of the plane\n\t\t<a href=\"https://mtg.fandom.com/wiki/Arcavios\">Arcavios</a>.",
+    "p2": "At the birth of the <a href=\"https://mtg.fandom.com/wiki/Plane\" title=\"Plane\">plane</a>, as the\n\t\t<a href=\"https://mtg.fandom.com/wiki/Mana\" title=\"Mana\">mana</a> of two planes overlapped in conflicting ways,\n\t\tmany forms of life adapted to the new structure, and many new forms of life were spawned. Five\n\t\tparticularly powerful snarls of overlapping mana became luminous spheres, from which were hatched\n\t\tfive <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragons</a>. The five\n\t\t<a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">elder</a> <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragons</a>\n\t\tof <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a> were born from\n\t\tthese snarls, and millennia later they founded Strixhaven University at the epicenter of the\n\t\tsnarls.\n\n\t\tThese dragons have become emblems of the magic of the plane, living symbols of the clashing\n\t\tforces of the five dichotomies.",
+    "p3": "The Founder Dragons were the first to master the magic of the five enemy color combinations.\n\t\tWhen the humanoid races arose, at first the dragons were angered that mortals would try to harness\n\t\tthe wild forces of magic, but they came to realize that only through disciplined study would magic\n\t\tbe in safe hands. So, centuries ago, the dragons founded an institution devoted to the study of\n\t\tthe five mana dichotomies, and that institution is what we now know as Strixhaven. The five colleges\n\t\twere based around the magic mastered by each of those dragons. To this day, the Founder Dragons\n\t\troam the plane, the five deadly sages of the skies. They no longer associate directly with Strixhaven,\n\t\tpreferring to let the deans of the college speak in their stead. The dragons' wisdom is vast, but\n\t\ttheir tempers can be short. Mages seek them out only to learn the most elusive of secrets.",
+    "p4": "Founded some 700 years ago by five spellcasting <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragons</a>,\n\t\tStrixhaven University is Arcavios's premier institution of magical learning, drawing promising young\n\t\t<a href=\"https://mtg.fandom.com/wiki/Wizard\" title=\"Wizard\">mages</a> from all around the\n\t\t<a href=\"https://mtg.fandom.com/wiki/Plane\" title=\"Plane\">plane</a> to study in its halls.\n\t\tStrixhaven is divided into five colleges, each with its own campus, faculty, and magical specialties.\n\t\tThe mission of Strixhaven University is to discover and preserve magical knowledge, disseminate\n\t\tthat knowledge from one generation to the next, promote the free and open study of magic in all\n\t\tits forms, and enhance the lives of people throughout the <a href=\"https://mtg.fandom.com/wiki/Plane\" title=\"Plane\">plane</a>\n\t\tthrough the use of magic.",
+    "colleges": {
+      "title": "The colleges",
+      "official_link_title": "Official college link",
+      "official_link": "<a href=\"https://mtg.fandom.com/wiki/{{college}}\" title=\"{{college}}\">{{college}}</a>",
+      "lorehold": {
+        "title": "Lorehold college",
+        "p1": "Lorehold is the College of Archaeomancy at Strixhaven University on the plane of <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nIt is <i class=\"ms ms-r ms-cost\"></i><i class=\"ms ms-w ms-cost\"></i> aligned and has the <a href=\"https://mtg.fandom.com/wiki/Spirit\" title=\"Spirit\">Spirits</a> as mascots. The founder of the college is the <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">elder</a> <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragon</a> <a href=\"https://mtg.fandom.com/wiki/Velomachus_Lorehold\" title=\"Lorehold Dragon\">Velomachus Lorehold</a>."
+      },
+      "prismari": {
+        "title": "Prismari college",
+        "p1": "Prismari is the College of Elemental Arts at Strixhaven University on the plane of <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nIt is <i class=\"ms ms-r ms-cost\"></i><i class=\"ms ms-u ms-cost\"></i> aligned and has the <a href=\"https://mtg.fandom.com/wiki/Elemental\" title=\"Elemental\">Elementals</a> as mascots. The founder of the college is the <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">elder</a> <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragon</a> <a href=\"https://mtg.fandom.com/wiki/Galazeth_Prismari\" title=\"Prismari Dragon\">Galazeth Prismari</a>."
+      },
+      "quandrix": {
+        "title": "Quandrix college",
+        "p1": "Quandrix is the College of Numeromancy at Strixhaven University on the plane of <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nIt is <i class=\"ms ms-g ms-cost\"></i><i class=\"ms ms-u ms-cost\"></i> aligned and has the <a href=\"https://mtg.fandom.com/wiki/Fractal\" title=\"Fractal\">Fractals</a> as mascots. The founder of the college is the <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">elder</a> <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragon</a> <a href=\"https://mtg.fandom.com/wiki/Tanazir_Quandrix\" title=\"Quandrix Dragon\">Tanazir Quandrix</a>."
+      },
+      "silverquill": {
+        "title": "Silverquill college",
+        "p1": "Silverquill is the College of Eloquence at Strixhaven University on the plane of <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nIt is <i class=\"ms ms-w ms-cost\"></i><i class=\"ms ms-b ms-cost\"></i> aligned and has the <a href=\"https://mtg.fandom.com/wiki/Inkling\" title=\"Inkling\">Inklings</a> as mascots. The founder of the college is the <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">elder</a> <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragon</a> <a href=\"https://mtg.fandom.com/wiki/Shadrix_Silverquill\" title=\"Silverquill Dragon\">Shadrix Silverquill</a>."
+      },
+      "witherbloom": {
+        "title": "Witherbloom college",
+        "p1": "Witherbloom is the College of Essence Studies at Strixhaven University on the plane of <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nIt is <i class=\"ms ms-b ms-cost\"></i><i class=\"ms ms-g ms-cost\"></i> aligned and uses <a href=\"https://mtg.fandom.com/wiki/Pest\" title=\"Pest\">Pests</a> as mascots. The founder of the college is the elder dragon <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">elder</a> <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragon</a> <a href=\"https://mtg.fandom.com/wiki/Beledros_Witherbloom\" title=\"Witherbloom Dragon\">Beledros Witherbloom</a>."
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "header": {
+    "home": "Início",
+    "admissions": "Admissões",
+    "news": "Novidades",
+    "events": "Eventos",
+    "about": "Informações"
+  },
+  "footer": {
+    "text": "Visite a wiki oficial da universidade Strixhaven",
+    "placeholder": "aqui"
+  },
+  "home": {
+    "title": "Strixhaven - início",
+    "intro": "escola de magia"
+  },
+  "news": {
+    "title": "Strixhaven - novidades",
+    "story": "Ler artigo",
+    "nothing_here": "Nada disponível para apresentar..."
+  },
+  "events": {
+    "title": "Strixhaven - eventos",
+    "e1": "Apresentação e entrega de candidaturas, presencialmente",
+    "e2": "Início das aulas",
+    "e3": "Festival de outono"
+  },
+  "admissions": {
+    "title": "Strixhaven - admissões",
+    "intro_text": "Pode consultar o resultado da sua candidatura no curso de Magia de Strixhaven aqui!",
+    "heading1": "Estado das candidaturas",
+    "last_name": "Apelido",
+    "first_name": "Nome próprio",
+    "check_application": "Ver estado",
+    "error": "Ainda não recebemos nenhuma candidatura de {{student}}.\nse acredita tratar-se de um erro, por favor contacte os serviços administrativos de Strixhaven.\nObrigado!",
+    "students": {
+      "title": "Estado da candidatura em Strixhaven",
+      "status_ok": "Parabéns!",
+      "status_nok": "Temos pena!",
+      "description": "Temos o prazer de informar que <b>{{student}}</b> entrou na mais prestigiada Escola de Magia de Arcavios!\nBem-vindo a Strixhaven, e que a sua jornada na aprendizagem das artes mágicas seja, no mínimo, fascinante!",
+      "details": "Detalhes da admissão",
+      "application_submission": "Submissão da candidatura",
+      "submitted": "Submetido",
+      "preliminary_interview": "Entrevista preliminar",
+      "scheduled": "Marcada",
+      "done": "Completa",
+      "acceptance": "Aceitação da candidatura",
+      "unknown": "Desconhecido",
+      "accepted": "Aceite",
+      "interview": {
+        "start_pitch": "Apresentação inicial",
+        "magic_display": "Demonstração de magia",
+        "sentience": "Senciência e percepção",
+        "examinator_perception_of_magic": "Percepção de magia do examinador sobre o candidato"
+      }
+    }
+  },
+  "about": {
+    "title": "Strixhaven - Informações",
+    "university": "A universidade",
+    "p1": "Strixhaven é uma escola de magia localizada no continente de Orrithia, do plano\n\t\t<a href=\"https://mtg.fandom.com/wiki/Arcavios\">Arcavios</a>.",
+    "p2": "No nascimento do <a href=\"https://mtg.fandom.com/wiki/Plane\" title=\"Plane\">plano</a>, a\n\t\t<a href=\"https://mtg.fandom.com/wiki/Mana\" title=\"Mana\">mana</a> de dois planos distintos sobrepôs-se de forma conflituosa.\n\t\tEste evento gerou novas formas de vida e obrigou as existentes a adaptarem-se. Cinco\n\t\tzonas de sobreposição dos planos particularmente sobrecarregadas de mana transformaram-se em esferas luminosas, das quais brotaram\n\t\tcinco <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragões</a>. Os cinco\n\t\t<a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragões</a> <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">anciãos</a>\n\t\tde <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a> nasceram\n\t\tdessas zonas e fundaram, vários milénios depois, a Universidade de Strixhaven no epicentro das\n\t\tzonas de sobreposição.\n\n\t\tEstes dragões tornaram-se nos emblemas da magia neste plano, símbolos vivos do choque\n\t\tentre as forças entrelaçadas dos universos.",
+    "p3": "Os Dragões Fundadores foram os primeiros a dominar a magia das cinco combinações de elementos.\n\t\tQuando as raças humanóides floresceram neste plano, inicialmente os dragões ficaram furiosos com a simples ideia destes mortais\n\t\ttentarem compreender as forças selvagens da magia, mas depressa compreenderam que apenas com muito estudo disciplinado e minucioso eles conseguiriam domá-la,\n\t\talgo que não estava ao alcance de muitos. Por essa razão, há vários séculos atrás, os dragões fundaram uma instituição dedicada ao estudo\n\t\tdas cinco dicotomias da mana, instituição essa que conhecemos hoje pelo nome de Strixhaven. Os cinco colégios\n\t\tforam construídos à volta da magia dominada por cada um dos dragões. Até hoje, os Dragões Fundadores\n\t\tvagueiam pelo plano, os cinco anciãos dos céus. Eles já não estão diretamente associados a Strixhaven,\n\t\tpreferindo deixar os diretores de cada colégio falar por si. A sabedoria dos dragões é vasta, mas\n\t\to seu temperamento é muito volátil. Os mais diversos magos procuram-nos apenas para aprender e desvendar os segredos mais obscuros.",
+    "p4": "Fundada há cerca de 700 anos pelos cinco <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragões</a> mágicos,\n\t\ta Universidade de Strixhaven é a mais prestigiada instituição de conhecimento mágico de Arcavios, sendo cobiçada por todos os futuros\n\t\t<a href=\"https://mtg.fandom.com/wiki/Wizard\" title=\"Wizard\">magos</a> do \n\t\t<a href=\"https://mtg.fandom.com/wiki/Plane\" title=\"Plane\">plano</a>.\n\t\tStrixhaven está dividida em cinco colégios, cada um com o seu próprio campus, faculdade e especialidades mágicas.\n\t\tA missão da Universidade de Strixhaven é descobrir e preservar todo o conhecimento mágico, disseminá-lo\n\t\tao longo de gerações, promover o estudo aberto e sem barreiras da magia em todas as suas formas,\n\t\te melhorar as vidas de todos os seres vivos de todo o <a href=\"https://mtg.fandom.com/wiki/Plane\" title=\"Plane\">plano</a>\n\t\tatravés da utilização de magia.",
+    "colleges": {
+      "title": "Os colégios",
+      "official_link_title": "Link oficial do colégio",
+      "official_link_text": "Link do colégio de {{college}} disponível <a href=\"https://mtg.fandom.com/wiki/{{college}}\" title=\"{{college}}\">aqui</a>!",
+      "lorehold": {
+        "title": "Colégio Lorehold",
+        "p1": "Lorehold é o Colégio de Arqueomância da Universidade de Strixhaven no plano de <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nO seu alinhamento é <i class=\"ms ms-r ms-cost\"></i><i class=\"ms ms-w ms-cost\"></i> e os seus alunos utilizam <a href=\"https://mtg.fandom.com/wiki/Spirit\" title=\"Spirit\">Espíritos</a> como mascotes. O fundador deste Colégio é o <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragão</a> <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">ancião</a> <a href=\"https://mtg.fandom.com/wiki/Velomachus_Lorehold\" title=\"Lorehold Dragon\">Velomachus Lorehold</a>."
+      },
+      "prismari": {
+        "title": "Colégio Prismari",
+        "p1": "Prismari é o Colégio das Artes dos Elementos da Universidade de Strixhaven, no plano de <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nO seu alinhamento é <i class=\"ms ms-r ms-cost\"></i><i class=\"ms ms-u ms-cost\"></i> e os seus alunos utilizam <a href=\"https://mtg.fandom.com/wiki/Elemental\" title=\"Elemental\">Elementais</a> como mascotes. O fundador deste Colégio é o <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragão</a> <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">ancião</a> <a href=\"https://mtg.fandom.com/wiki/Galazeth_Prismari\" title=\"Prismari Dragon\">Galazeth Prismari</a>."
+      },
+      "quandrix": {
+        "title": "Colégio Quandrix",
+        "p1": "Quandrix é o Colégio de Numeromância da Universidade de Strixhaven, no plano de <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nO seu alinhamento é <i class=\"ms ms-g ms-cost\"></i><i class=\"ms ms-u ms-cost\"></i> e os seus alunos utilizam <a href=\"https://mtg.fandom.com/wiki/Fractal\" title=\"Fractal\">Fractais</a> como mascotes. O fundador deste Colégio é o <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragão</a> <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">ancião</a> <a href=\"https://mtg.fandom.com/wiki/Tanazir_Quandrix\" title=\"Quandrix Dragon\">Tanazir Quandrix</a>."
+      },
+      "silverquill": {
+        "title": "Colégio Silverquill",
+        "p1": "Silverquill é o Colégio da Eloquência da Universidade de Strixhaven, no plano de <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nO seu alinhamento é <i class=\"ms ms-w ms-cost\"></i><i class=\"ms ms-b ms-cost\"></i> e os seus alunos utilizam <a href=\"https://mtg.fandom.com/wiki/Inkling\" title=\"Inkling\">Inklings</a> como mascotes. O fundador deste Colégio é o <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragão</a> <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">ancião</a> <a href=\"https://mtg.fandom.com/wiki/Shadrix_Silverquill\" title=\"Silverquill Dragon\">Shadrix Silverquill</a>."
+      },
+      "witherbloom": {
+        "title": "Colégio Witherbloom",
+        "p1": "Witherbloom é o Colégio dos Estudos da Essência da Universidade de Strixhaven, no plano de <a href=\"https://mtg.fandom.com/wiki/Arcavios\" title=\"Arcavios\">Arcavios</a>.\nO seu alinhamento é <i class=\"ms ms-b ms-cost\"></i><i class=\"ms ms-g ms-cost\"></i> e os seus alunos utilizam <a href=\"https://mtg.fandom.com/wiki/Pest\" title=\"Pest\">Pests</a> como mascotes. O fundador deste Colégio é o <a href=\"https://mtg.fandom.com/wiki/Dragon\" title=\"Dragon\">dragão</a> <a href=\"https://mtg.fandom.com/wiki/Elder\" title=\"Elder\">ancião</a> <a href=\"https://mtg.fandom.com/wiki/Beledros_Witherbloom\" title=\"Witherbloom Dragon\">Beledros Witherbloom</a>."
+      }
+    }
+  }
+}
